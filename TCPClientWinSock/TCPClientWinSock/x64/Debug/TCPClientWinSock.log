@@ -1,0 +1,5 @@
+﻿  TCPClientWinSock.cpp
+D:\Projects\C++ Development\Visual Studio Projects\forkbench-gui-windows-private\TCPClientWinSock\TCPClientWinSock.cpp(13,26): warning C4101: 'acceptSocket': unreferenced local variable
+  TCPClientWinSock.vcxproj -> D:\Projects\C++ Development\Visual Studio Projects\forkbench-gui-windows-private\TCPClientWinSock\x64\Debug\TCPClientWinSock.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
